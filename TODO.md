@@ -1,1 +1,2 @@
 - rename "name": "ui-toolkit" in package.json + "version": "1.0.0"
+- proposition => mettre tous les composents de formulaires dans un seul package dans les shareds
